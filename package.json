@@ -1,0 +1,11 @@
+{
+  "name": "apeq-ui",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "dependencide": [],
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
